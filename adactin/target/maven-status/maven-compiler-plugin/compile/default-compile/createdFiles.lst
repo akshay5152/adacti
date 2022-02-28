@@ -1,0 +1,6 @@
+com\pkg\adactindetails\Book_Now.class
+com\pkg\adactindetails\Search_Hotel.class
+com\pkg\adactin\Base_Class.class
+com\pkg\adactindetails\Login.class
+com\pkg\adactindetails\Select_Hotel.class
+com\pom\PageObjectManager.class
